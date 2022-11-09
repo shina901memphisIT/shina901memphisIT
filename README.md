@@ -1,6 +1,6 @@
 ### Hi, I'm Kashina, an <a href="https://github.com/shina901memphisIT">IT Professional 😄
 
-  <h2>👩‍💻 Information Technology Projects:</h2>
+  <h2>👩‍💻💬 Information Technology Projects:</h2>
 **shina901memphisIT/shina901memphisIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
