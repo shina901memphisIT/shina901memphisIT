@@ -8,10 +8,13 @@
   - <b>Microsoft Azure</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/shina901memphisIT/configure-ad)
     - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shina901memphisIT/azure-network-protocols)
+  
   <h2>🤳Connect with me:</h2>
   
+  [<img align="left" alt="kashina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+  [<img align="left" alt="kashina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg"/>][linkedin]
+  [<img align="left" alt="kashina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][instagram]
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  [instagram]: https://www.instagram.com/it_kashina/?next=%2F
+  [linkedin]: https://www.linkedin.com/in/kashina-wilson-737843256/
