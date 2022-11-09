@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kashina, an IT Professional
 
 <!--
 **shina901memphisIT/shina901memphisIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
