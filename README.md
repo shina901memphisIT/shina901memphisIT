@@ -15,6 +15,6 @@
   [<img align="left" alt="kashina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg"/>][linkedin]
   [<img align="left" alt="kashina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-  
+  [twitter]: https://twitter.com/kashina
   [instagram]: https://www.instagram.com/it_kashina/?next=%2F
   [linkedin]: https://www.linkedin.com/in/kashina-wilson-737843256/
